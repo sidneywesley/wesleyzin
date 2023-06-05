@@ -8,5 +8,26 @@ header{
       marg:o auto
    }
    nav{
-    position: relative;
+    position: absolute;
+    top:110 px;
+    rigth:0;
    }
+
+   nav li {
+      display:inlive;
+      margin: 000 15px;
+   }
+   nav a{
+      text-transform: uppercase;
+      color: #0000
+      font-weigth: bold;
+      font-size 22 px; 
+      text-decoration:none;
+   }
+
+   Nav A:hover{
+      color: hsl(258,96%,51%);
+      text-decoration:Underline;
+   }
+
+
